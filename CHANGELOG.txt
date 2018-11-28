@@ -26,6 +26,7 @@ master:
      have been deselected due to the default location priorities setting. This
      is a pure usability improvement as it has been confusing users
      (see #2159).
+   * Adding a mapping for the KNMI (see #2270) services.
  - obspy.io.nordic:
    * Add ability to read and write focal mechanisms and moment tensor
      information. (see #1924)
